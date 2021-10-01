@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 /*
+Teste
 Route::get('/', function () {
     return 'Dando inicio ao projeto';
 });
